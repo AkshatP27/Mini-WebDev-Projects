@@ -1,6 +1,6 @@
 const textE1 = document.getElementById('text')
 const speedE1 = document.getElementById('speed')
-const text = "I'm doing Web Development!"
+const text = "I'm learning Web Development!"
 let idx = 1
 let speed = 300 / speedE1.value
 
